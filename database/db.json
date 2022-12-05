@@ -1,0 +1,46 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "Javascript is my life",
+      "author": "ali pasha"
+    },
+    {
+      "id": 2,
+      "quote": "Learning react is very fun",
+      "author": "nasim rabiei"
+    },
+    {
+      "author": "hosssein azimi",
+      "quote": "PHP is powerfull than JavaScript",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "quoteId": 1,
+      "title": "life is to short bro ..."
+    },
+    {
+      "quoteId": "1",
+      "title": "m",
+      "id": 2
+    },
+    {
+      "quoteId": "1",
+      "title": "l",
+      "id": 3
+    },
+    {
+      "quoteId": "2",
+      "title": "first comment",
+      "id": 4
+    },
+    {
+      "quoteId": "2",
+      "title": "second commnet",
+      "id": 5
+    }
+  ]
+}

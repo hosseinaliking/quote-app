@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .nav-link {
+    @apply border rounded-md py-1 px-3 hover:shadow-md transition-all ease-out
+  }
+
+  .active {
+    @apply shadow-md font-bold
+  }
+}
+
